@@ -33,8 +33,6 @@
 
   <img align="left" alt="jseanpatel's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=jseanpatel&show_icons=true&hide_border=true&count_private=true" />
 
-<br>
-
 [website]: https://jacobpa.tel/
 [treetop]: https://treetoplearning.org/
 [twitter]: https://twitter.com/jseanpatel
