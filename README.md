@@ -1,9 +1,10 @@
 ## **Hi there, I'm Jacob**  👋
 
-### I'm a student at the University of California, Berkeley studying computer science with a minor in education.
+### I'm a student at the University of California, Berkeley studying computer science and education.
 
+- 📕  I'm interested in using technology to bridge educational inequities.
 - 🌳 I'm currently working on my computer science learning platform, [Treetop Learning][treetop]!
-- 👯 I’m looking to build impact projects with others.
+- 💻  I’m looking to build impactful projects with others.
 - ⚡ Fun fact: I am a both a 🇪🇸 Spanish and 🇺🇸 American citizen.
 
 ### Languages and tools:
@@ -23,8 +24,8 @@
 ### Connect with me:
 
 [<img align="left" alt="jacobpa.tel" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="jacobpa.tel | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="jacobpa.tel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="jacobpa.tel | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 <br />
 
@@ -33,8 +34,6 @@
   <img align="left" alt="jseanpatel's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=jseanpatel&show_icons=true&hide_border=true&count_private=true" />
 
 <br>
-
-
 
 [website]: https://jacobpa.tel/
 [treetop]: https://treetoplearning.org/
