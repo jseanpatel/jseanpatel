@@ -28,7 +28,7 @@
 
 ### Open source history:
 
-  <img align="left" alt="jseanpatel's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=jseanpatel&show_icons=true&hide_border=true&count_private=true" />
+  <img align="left" alt="jseanpatel's GitHub Stats" src="https://github-readme-stats-jseanpatel.vercel.app/api?username=jseanpatel&show_icons=true&hide_border=true&count_private=true" />
 
 [website]: https://jacobpa.tel/
 [treetop]: https://treetoplearning.org/
