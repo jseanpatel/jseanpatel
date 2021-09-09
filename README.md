@@ -20,9 +20,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="jacobpa.tel" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="jacobpa.tel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="jacobpa.tel | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="jseanpa.tel" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="jseanpa.tel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="jseanpa.tel | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 <br />
 
@@ -30,7 +30,7 @@
 
   <img align="left" alt="jseanpatel's GitHub Stats" src="https://github-readme-stats-jseanpatel.vercel.app/api?username=jseanpatel&show_icons=true&hide_border=true&count_private=true" />
 
-[website]: https://jacobpa.tel/
+[website]: https://jseanpa.tel/
 [treetop]: https://treetoplearning.org/
 [twitter]: https://twitter.com/jseanpatel
 [linkedin]: https://www.linkedin.com/in/jseanpatel/
