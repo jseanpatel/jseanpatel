@@ -3,7 +3,7 @@
 ### I'm a student at the University of California, Berkeley studying computer science and education.
 
 - 📕  I'm interested in using technology to bridge educational inequities.
-- 🌳 I'm currently working on my website design agency, [Ladder Designs][https://github.com/ladderdesigns]!
+- 🌳 I'm currently working on my website design agency, [Ladder Designs](https://github.com/ladderdesigns)!
 - 💻  I’m looking to build impactful projects with others.
 - ⚡ Fun fact: I am a both a 🇪🇸 Spanish and 🇺🇸 American citizen.
 
@@ -20,15 +20,15 @@
 
 ### Connect with me:
 
-[<img align="left" alt="jseanpa.tel" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="jseanpa.tel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="jseanpa.tel | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="jseanpatel portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="jseanpatel LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="jseanpatel Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 <br />
 
 ### Open source history:
 
-  <img align="left" alt="jseanpatel's GitHub Stats" src="https://github-readme-stats-jseanpatel.vercel.app/api?username=jseanpatel&show_icons=true&hide_border=true&count_private=true" />
+  <img align="left" alt="jseanpatel GitHub Stats" src="https://github-readme-stats-jseanpatel.vercel.app/api?username=jseanpatel&show_icons=true&hide_border=true&count_private=true" />
 
 [website]: https://jseanpa.tel/
 [treetop]: https://treetoplearning.org/
