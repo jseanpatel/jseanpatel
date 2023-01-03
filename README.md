@@ -9,29 +9,29 @@
 
 ### Languages and tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][visualstudiocode]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html5]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css3]
-[<img align="left" alt="TailwindCSS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" />][tailwindcss]
-[<img align="left" alt="Python" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/python-5-logo-png-transparent.png" />][python]
-[<img align="left" alt="Java" width="26px" src="https://classes.engineering.wustl.edu/cse231/core/images/2/26/Java.png" />][java]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][react]
-[<img align="left" alt="Next" width="26px" src="https://www.rlogical.com/wp-content/uploads/2021/08/Rlogical-Blog-Images-thumbnail.png" />][next]
-[<img align="left" alt="GraphQL" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" />][graphql]
-[<img  alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][node]
+[<img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][visualstudiocode]
+[<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html5]
+[<img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css3]
+[<img align="left" alt="TailwindCSS" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" />][tailwindcss]
+[<img align="left" alt="Python" width="30px" src="https://cdn.freebiesupply.com/logos/large/2x/python-5-logo-png-transparent.png" />][python]
+[<img align="left" alt="Java" width="30px" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" />][java]
+[<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
+[<img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][react]
+[<img align="left" alt="Next" width="30px" src="https://www.rlogical.com/wp-content/uploads/2021/08/Rlogical-Blog-Images-thumbnail.png" />][next]
+[<img align="left" alt="GraphQL" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" />][graphql]
+[<img  alt="Node.js" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][node]
 
 ### Connect with me:
 
-[<img align="left" alt="jseanpatel portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="jseanpatel LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="jseanpatel Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="jseanpatel portfolio" width="30px" src="https://cdn-icons-png.flaticon.com/512/814/814513.png" />][website]
+[<img align="left" alt="jseanpatel LinkedIn" width="30px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" />][linkedin]
+[<img align="left" alt="jseanpatel Twitter" width="30px" src="https://cdn-icons-png.flaticon.com/512/3670/3670151.png" />][twitter]
 
 <br />
 
 ### Open source history:
 
-  <img align="left" alt="jseanpatel GitHub Stats" src="https://github-readme-stats-jseanpatel.vercel.app/api?username=jseanpatel&show_icons=true&hide_border=true&count_private=true" />
+  <img align="left" alt="jseanpatel GitHub stats" src="https://github-readme-stats-jseanpatel.vercel.app/api?username=jseanpatel&show_icons=true&hide_border=true&count_private=true" />
 
 <!--- Links: -->
 
@@ -47,5 +47,5 @@
 [graphql]: https://graphql.org/
 [node]: https://nodejs.org/en/
 [website]: https://jseanpa.tel/
-[twitter]: https://twitter.com/jseanpatel
 [linkedin]: https://www.linkedin.com/in/jseanpatel/
+[twitter]: https://twitter.com/jseanpatel
