@@ -9,9 +9,9 @@
 
 ### Languages and tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][Visual Studio Code]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][HTML]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][CSS]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][VisualStudioCode]
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][HTML5]
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][CSS3]
 [<img align="left" alt="TailwindCSS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" />][TailwindCSS]
 [<img align="left" alt="Python" width="26px" src="https://assets.stickpng.com/thumbs/5848152fcef1014c0b5e4967.png" />][Python]
 [<img align="left" alt="Java" width="26px" src="https://assets.stickpng.com/thumbs/58480979cef1014c0b5e4901.png" />][Java]
@@ -35,7 +35,7 @@
 
 <!--- Links: -->
 
-[VisualStudio]: https://code.visualstudio.com/?wt.mc_id=DX_841432
+[VisualStudioCode]: https://code.visualstudio.com/?wt.mc_id=DX_841432
 [HTML5]: https://code.visualstudio.com/?wt.mc_id=DX_841432
 [CSS3]: https://developer.mozilla.org/en-US/docs/Web/CSS
 [TailwindCSS]: https://tailwindcss.com/
