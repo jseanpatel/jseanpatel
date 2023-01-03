@@ -13,11 +13,11 @@
 [<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html5]
 [<img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css3]
 [<img align="left" alt="TailwindCSS" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" />][tailwindcss]
-[<img align="left" alt="Python" width="30px" src="https://cdn.freebiesupply.com/logos/large/2x/python-5-logo-png-transparent.png" />][python]
-[<img align="left" alt="Java" width="30px" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" />][java]
 [<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
 [<img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][react]
 [<img align="left" alt="Next" width="30px" src="https://www.rlogical.com/wp-content/uploads/2021/08/Rlogical-Blog-Images-thumbnail.png" />][next]
+[<img align="left" alt="Python" width="30px" src="https://cdn.freebiesupply.com/logos/large/2x/python-5-logo-png-transparent.png" />][python]
+[<img align="left" alt="Java" width="30px" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" />][java]
 [<img align="left" alt="GraphQL" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" />][graphql]
 [<img  alt="Node.js" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][node]
 
@@ -39,11 +39,11 @@
 [html5]: https://code.visualstudio.com/?wt.mc_id=DX_841432
 [css3]: https://developer.mozilla.org/en-US/docs/Web/CSS
 [tailwindcss]: https://tailwindcss.com/
-[python]: https://www.python.org/
-[java]: https://www.java.com/en/
 [javascript]: https://www.javascript.com/
 [react]: https://reactjs.org/
 [next]: https://nextjs.org/
+[python]: https://www.python.org/
+[java]: https://www.java.com/en/
 [graphql]: https://graphql.org/
 [node]: https://nodejs.org/en/
 [website]: https://jseanpa.tel/
