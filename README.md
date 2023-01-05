@@ -3,7 +3,7 @@
 ### I'm a student at the University of California, Berkeley studying computer science and education.
 
 - 📕 I'm interested in using technology to bridge educational inequities.
-- 🪜 I'm currently working on client projects through website design agency, [Ladder Designs](https://ladderdesigns.co)!
+- 🪜 I'm currently working on client projects through my website design agency, [Ladder Designs](https://ladderdesigns.co)!
 - 💻 I’m looking to build impactful projects with others.
 - ⚡ Fun fact: I am a both a 🇪🇸 Spanish and 🇺🇸 American citizen.
 
