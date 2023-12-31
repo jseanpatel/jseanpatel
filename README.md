@@ -5,7 +5,7 @@
 - 📕 I'm interested in using technology to bridge educational inequities.
 - 🪜 I'm currently working on client projects through website design agency, [Ladder Designs](https://ladderdesigns.co)!
 - 💻 I’m looking to build impactful projects with others.
-- ⚡ Fun fact: I am a both a 🇪🇸 Spanish and 🇺🇸 American citizen.
+- ⚡ Fun fact: I am a both a 🇪🇸 Spanish and an 🇺🇸 American citizen.
 
 ### Languages and tools:
 
