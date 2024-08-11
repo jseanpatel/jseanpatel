@@ -1,3 +1,4 @@
+
 ## **Hi there, I'm Jacob** 👋
 
 ### I'm a recent graduate of the [University of California, Berkeley](https://www.berkeley.edu/) where I studied education and computer science.
@@ -15,7 +16,7 @@
 [<img align="left" alt="TailwindCSS" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" />][tailwindcss]
 [<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
 [<img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][react]
-[<img align="left" alt="Next" width="30px" src="https://www.rlogical.com/wp-content/uploads/2021/08/Rlogical-Blog-Images-thumbnail.png" />][next]
+[<img align="left" alt="Next" width="30px" src="https://static-00.iconduck.com/assets.00/nextjs-icon-512x512-y563b8iq.png" />][next]
 [<img align="left" alt="Python" width="30px" src="https://cdn.freebiesupply.com/logos/large/2x/python-5-logo-png-transparent.png" />][python]
 [<img align="left" alt="Java" width="30px" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" />][java]
 [<img align="left" alt="GraphQL" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" />][graphql]
