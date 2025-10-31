@@ -2,7 +2,7 @@
 
 ## **Hi there, I'm Jacob** 👋
 
-### I'm a recent graduate of the [University of California, Berkeley](https://www.berkeley.edu/) where I studied education and computer science.
+### I'm a graduate of the [University of California, Berkeley](https://www.berkeley.edu/) where I studied education and computer science.
 
 - 📕 I'm interested in using technology to bridge educational inequities.
 - 🪜 I'm currently working on client projects through website design agency, [Ladder Designs](https://ladderdesigns.co)!
