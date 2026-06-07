@@ -9,16 +9,14 @@
 
 ### Languages and tools:
 
-[<img align="left" alt="Visual Studio Code" width="30px" src="https://cdn.simpleicons.org/visualstudiocode/007ACC" />][visualstudiocode]
-[<img align="left" alt="HTML5" width="30px" src="https://cdn.simpleicons.org/html5/E34F26" />][html5]
-[<img align="left" alt="CSS3" width="30px" src="https://cdn.simpleicons.org/css3/1572B6" />][css3]
+[<img align="left" alt="Cursor" width="30px" src="https://cdn.simpleicons.org/cursor/000000" />][cursor]
+[<img align="left" alt="Claude" width="30px" src="https://cdn.simpleicons.org/claude/D97757" />][claude]
 [<img align="left" alt="Tailwind CSS" width="30px" src="https://cdn.simpleicons.org/tailwindcss/06B6D4" />][tailwindcss]
 [<img align="left" alt="JavaScript" width="30px" src="https://cdn.simpleicons.org/javascript/F7DF1E" />][javascript]
 [<img align="left" alt="TypeScript" width="30px" src="https://cdn.simpleicons.org/typescript/3178C6" />][typescript]
 [<img align="left" alt="Vue.js" width="30px" src="https://cdn.simpleicons.org/vuedotjs/4FC08D" />][vue]
 [<img align="left" alt="Vite" width="30px" src="https://cdn.simpleicons.org/vite/646CFF" />][vite]
 [<img align="left" alt="React" width="30px" src="https://cdn.simpleicons.org/react/61DAFB" />][react]
-[<img align="left" alt="Next.js" width="30px" src="https://cdn.simpleicons.org/nextdotjs/000000" />][next]
 [<img align="left" alt="Python" width="30px" src="https://cdn.simpleicons.org/python/3776AB" />][python]
 [<img align="left" alt="Node.js" width="30px" src="https://cdn.simpleicons.org/nodedotjs/5FA04E" />][node]
 [<img align="left" alt="Supabase" width="30px" src="https://cdn.simpleicons.org/supabase/3FCF8E" />][supabase]
@@ -38,16 +36,14 @@
 
 <!--- Links: -->
 
-[visualstudiocode]: https://code.visualstudio.com/
-[html5]: https://developer.mozilla.org/en-US/docs/Web/HTML
-[css3]: https://developer.mozilla.org/en-US/docs/Web/CSS
+[cursor]: https://cursor.com/
+[claude]: https://claude.ai/
 [tailwindcss]: https://tailwindcss.com/
 [javascript]: https://www.javascript.com/
 [typescript]: https://www.typescriptlang.org/
 [vue]: https://vuejs.org/
 [vite]: https://vite.dev/
 [react]: https://react.dev/
-[next]: https://nextjs.org/
 [python]: https://www.python.org/
 [node]: https://nodejs.org/
 [supabase]: https://supabase.com/
