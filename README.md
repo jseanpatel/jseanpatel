@@ -1,5 +1,3 @@
-
-
 ## **Hi there, I'm Jacob** 👋
 
 ### I'm a graduate of the [University of California, Berkeley](https://www.berkeley.edu/) where I studied education and computer science.
@@ -7,21 +5,24 @@
 - 📕 I'm interested in using technology to bridge educational inequities.
 - 🪜 I'm currently working on client projects through website design agency, [Ladder Designs](https://ladderdesigns.co)!
 - 💻 I’m looking to build impactful projects with others.
-- ⚡ Fun fact: I am a both a 🇪🇸 Spanish and an 🇺🇸 American citizen.
+- ⚡ Fun fact: I am both a 🇪🇸 Spanish and an 🇺🇸 American citizen.
 
 ### Languages and tools:
 
-[<img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][visualstudiocode]
-[<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html5]
-[<img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css3]
-[<img align="left" alt="TailwindCSS" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" />][tailwindcss]
-[<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
-[<img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][react]
-[<img align="left" alt="Next" width="30px" src="https://i.ibb.co/C9MWfcm/next-js-logo.png" />][next]
-[<img align="left" alt="Python" width="30px" src="https://cdn.freebiesupply.com/logos/large/2x/python-5-logo-png-transparent.png" />][python]
-[<img align="left" alt="Java" width="30px" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" />][java]
-[<img align="left" alt="GraphQL" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" />][graphql]
-[<img  alt="Node.js" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][node]
+[<img align="left" alt="Visual Studio Code" width="30px" src="https://cdn.simpleicons.org/visualstudiocode/007ACC" />][visualstudiocode]
+[<img align="left" alt="HTML5" width="30px" src="https://cdn.simpleicons.org/html5/E34F26" />][html5]
+[<img align="left" alt="CSS3" width="30px" src="https://cdn.simpleicons.org/css3/1572B6" />][css3]
+[<img align="left" alt="Tailwind CSS" width="30px" src="https://cdn.simpleicons.org/tailwindcss/06B6D4" />][tailwindcss]
+[<img align="left" alt="JavaScript" width="30px" src="https://cdn.simpleicons.org/javascript/F7DF1E" />][javascript]
+[<img align="left" alt="TypeScript" width="30px" src="https://cdn.simpleicons.org/typescript/3178C6" />][typescript]
+[<img align="left" alt="Vue.js" width="30px" src="https://cdn.simpleicons.org/vuedotjs/4FC08D" />][vue]
+[<img align="left" alt="Vite" width="30px" src="https://cdn.simpleicons.org/vite/646CFF" />][vite]
+[<img align="left" alt="React" width="30px" src="https://cdn.simpleicons.org/react/61DAFB" />][react]
+[<img align="left" alt="Next.js" width="30px" src="https://cdn.simpleicons.org/nextdotjs/000000" />][next]
+[<img align="left" alt="Python" width="30px" src="https://cdn.simpleicons.org/python/3776AB" />][python]
+[<img align="left" alt="Node.js" width="30px" src="https://cdn.simpleicons.org/nodedotjs/5FA04E" />][node]
+[<img align="left" alt="Supabase" width="30px" src="https://cdn.simpleicons.org/supabase/3FCF8E" />][supabase]
+[<img alt="Cypress" width="30px" src="https://cdn.simpleicons.org/cypress/69D3A7" />][cypress]
 
 ### Connect with me:
 
@@ -37,17 +38,20 @@
 
 <!--- Links: -->
 
-[visualstudiocode]: https://code.visualstudio.com/?wt.mc_id=DX_841432
-[html5]: https://code.visualstudio.com/?wt.mc_id=DX_841432
+[visualstudiocode]: https://code.visualstudio.com/
+[html5]: https://developer.mozilla.org/en-US/docs/Web/HTML
 [css3]: https://developer.mozilla.org/en-US/docs/Web/CSS
 [tailwindcss]: https://tailwindcss.com/
 [javascript]: https://www.javascript.com/
-[react]: https://reactjs.org/
+[typescript]: https://www.typescriptlang.org/
+[vue]: https://vuejs.org/
+[vite]: https://vite.dev/
+[react]: https://react.dev/
 [next]: https://nextjs.org/
 [python]: https://www.python.org/
-[java]: https://www.java.com/en/
-[graphql]: https://graphql.org/
-[node]: https://nodejs.org/en/
+[node]: https://nodejs.org/
+[supabase]: https://supabase.com/
+[cypress]: https://www.cypress.io/
 [website]: https://jseanpa.tel/
 [linkedin]: https://www.linkedin.com/in/jseanpatel/
 [twitter]: https://twitter.com/jseanpatel
