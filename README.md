@@ -2,14 +2,11 @@
 
 ### I'm a graduate of the [University of California, Berkeley](https://www.berkeley.edu/) where I studied education and computer science.
 
-- 📕 I'm interested in using technology to bridge educational inequities.
-- 🪜 I'm currently working on client projects through website design agency, [Ladder Designs](https://ladderdesigns.co)!
-- 💻 I’m looking to build impactful projects with others.
-- ⚡ Fun fact: I am both a 🇪🇸 Spanish and an 🇺🇸 American citizen.
+I’m a builder interested in using technology to make learning more accessible, equitable, and human-centered. These days, I work on client projects through my website design agency, [Ladder Designs](https://ladderdesigns.co), while continuing to build tools and side projects with people who care about real-world impact.
 
 ### Languages and tools:
 
-[<img align="left" alt="Cursor" width="30px" src="https://cdn.simpleicons.org/cursor/000000" />][cursor]
+[<img align="left" alt="Cursor" width="30px" src="https://www.cursor.com/favicon.svg" />][cursor]
 [<img align="left" alt="Claude" width="30px" src="https://cdn.simpleicons.org/claude/D97757" />][claude]
 [<img align="left" alt="Tailwind CSS" width="30px" src="https://cdn.simpleicons.org/tailwindcss/06B6D4" />][tailwindcss]
 [<img align="left" alt="JavaScript" width="30px" src="https://cdn.simpleicons.org/javascript/F7DF1E" />][javascript]
