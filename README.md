@@ -2,7 +2,7 @@
 
 ### I'm a graduate of the [University of California, Berkeley](https://www.berkeley.edu/) where I studied education and computer science.
 
-I’m a builder interested in using technology to make learning more accessible, equitable, and human-centered. These days, I work on client projects through my website design agency, [Ladder Designs](https://ladderdesigns.co), while continuing to build tools and side projects with people who care about real-world impact.
+I’m a builder interested in using technology to make learning more accessible, equitable, and human-centered. These days, I work on client projects through my website design agency, [Ladder Designs](https://ladderdesigns.netlify.co), while continuing to build tools and side projects with people who care about real-world impact.
 
 ### Languages and tools:
 
