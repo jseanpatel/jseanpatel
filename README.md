@@ -23,7 +23,7 @@ I’m a builder interested in using technology to make learning more accessible,
 
 [<img align="left" alt="jseanpatel portfolio" width="30px" src="https://cdn-icons-png.flaticon.com/512/814/814513.png" />][website]
 [<img align="left" alt="jseanpatel LinkedIn" width="30px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" />][linkedin]
-[<img align="left" alt="Email hello@jseanpa.tel" width="30px" src="https://cdn-icons-png.flaticon.com/512/893/893257.png" />][email]
+[<img align="left" alt="Email hello@jseanpa.tel" width="30px" src="https://cdn-icons-png.flaticon.com/512/9068/9068642.png" />][email]
 
 <br />
 
