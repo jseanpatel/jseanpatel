@@ -29,7 +29,7 @@ I’m a builder interested in using technology to make learning more accessible,
 
 ### Open source history:
 
-<img align="left" alt="jseanpatel GitHub stats" src="https://github-readme-stats-jseanpatel.vercel.app/api?username=jseanpatel&show_icons=true&hide_border=true&count_private=true" />
+<img align="left" alt="jseanpatel GitHub stats" src="https://github-readme-stats-jseanpatel.vercel.app/api?username=jseanpatel&show_icons=true&hide_border=true&include_all_commits=true" />
 
 <!--- Links: -->
 
